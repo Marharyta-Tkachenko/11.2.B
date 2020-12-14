@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Project11.2.B\UnitTest1\UnitTest1.cpp(17,19): warning C4129: 'L': unrecognized character escape sequence
+C:\Student\ Tkachenko.Marharyta.IK11\Project11.2.B\UnitTest1\UnitTest1.cpp(29,16): warning C4129: 'L': unrecognized character escape sequence
+C:\Student\ Tkachenko.Marharyta.IK11\Project11.2.B\UnitTest1\UnitTest1.cpp(41,21): warning C4129: 'L': unrecognized character escape sequence
+     Creating library C:\Student\ Tkachenko.Marharyta.IK11\Project11.2.B\Debug\UnitTest1.lib and object C:\Student\ Tkachenko.Marharyta.IK11\Project11.2.B\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Student\ Tkachenko.Marharyta.IK11\Project11.2.B\Debug\UnitTest1.dll
